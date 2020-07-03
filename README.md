@@ -1,5 +1,5 @@
-### This is a test
+### Hi there!
 
-If you see this then the new GitHub Profile README has been activated!
+If you see this then the new GitHub Profile feature has been activated!
 
-Reference: https://twitter.com/fatih/status/1275591431260762112
+Reference: https://twitter.com/fatih/status/1275576428734496768
