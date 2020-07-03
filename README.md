@@ -1,3 +1,5 @@
-# This is a test
+### This is a test
 
-Just testing...
+If you see this then the new GitHub Profile README has been activated!
+
+Reference: https://twitter.com/fatih/status/1275591431260762112
