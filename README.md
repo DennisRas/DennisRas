@@ -1,5 +1,1 @@
-### Hi there!
-
-If you see this then the new GitHub Profile feature has been activated!
-
-Reference: https://twitter.com/fatih/status/1275576428734496768
+![Have a great day](https://i.imgur.com/vA6v5cp.jpeg)
